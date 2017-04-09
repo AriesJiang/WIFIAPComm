@@ -1,0 +1,296 @@
+[
+    {
+        "outputFile": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endLine": 14,
+                        "endColumn": 19,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endLine": 17,
+                    "endColumn": 19,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 34,
+                        "endColumn": 19,
+                        "endOffset": 1400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 64,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 64,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 50,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 50,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endColumn": 78,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 78,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 51,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 51,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 63,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 63,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 901,
+                    "endColumn": 54,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 64,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 64,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 69,
+                    "endOffset": 1086
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 956,
+                        "endColumn": 69,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1091,
+                    "endColumn": 69,
+                    "endOffset": 1156
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 69,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1161,
+                    "endColumn": 59,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 59,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 77,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 77,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 53,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endColumn": 53,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endColumn": 47,
+                    "endOffset": 1396
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 47,
+                        "endOffset": 1069
+                    }
+                }
+            }
+        ]
+    }
+]

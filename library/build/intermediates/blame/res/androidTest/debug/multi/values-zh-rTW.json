@@ -1,0 +1,296 @@
+[
+    {
+        "outputFile": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endLine": 17,
+                    "endColumn": 19,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endLine": 17,
+                        "endColumn": 19,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 53,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 53,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 47,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 47,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 62,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 62,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 47,
+                    "endOffset": 711
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 47,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 716,
+                    "endColumn": 53,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 53,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 54,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 54,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 53,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 53,
+                        "endOffset": 874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 61,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 879,
+                        "endColumn": 61,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 56,
+                    "endOffset": 993
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 56,
+                        "endOffset": 993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 998,
+                    "endColumn": 56,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 998,
+                        "endColumn": 56,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 60,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 60,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 49,
+                    "endOffset": 1161
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1116,
+                        "endColumn": 49,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1166,
+                    "endColumn": 40,
+                    "endOffset": 1202
+                },
+                "from": {
+                    "file": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 40,
+                        "endOffset": 1202
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp__ic_file.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp__ic_file.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_off_focused_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_off_focused_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__ic_action_invert_selection.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__ic_action_invert_selection.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__ic_action_invert_selection.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__ic_action_invert_selection.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__text_select_handle_middle.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__text_select_handle_middle.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_off_disabled_focused_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_off_disabled_focused_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp__ic_folder.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp__ic_folder.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_on_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_on_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__ic_action_list.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__ic_action_list.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_on_disabled_focused_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_on_disabled_focused_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__textfield_disabled_focused_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__textfield_disabled_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__list_focused_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__textfield_focused_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__textfield_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__ic_action_deselect.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__ic_action_deselect.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__ic_action_sort.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__ic_action_sort.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__textfield_default_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__textfield_default_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__list_longpressed_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_off_focused_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_off_focused_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_off_disabled_focused_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_off_disabled_focused_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__ic_action_cancel.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__ic_action_cancel.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__list_activated_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__list_activated_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__list_longpressed_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__ic_action_deselect.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__ic_action_deselect.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__text_select_handle_right.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__text_select_handle_right.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__textfield_disabled_focused_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__textfield_disabled_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_off_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_off_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_on_focused_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_on_focused_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_on_disabled_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_on_disabled_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_on_pressed_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_on_pressed_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__list_selector_disabled_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__list_selector_disabled_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__ic_action_select_all.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__ic_action_select_all.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__ic_action_new_folder.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__ic_action_new_folder.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__textfield_activated_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__textfield_activated_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__ic_action_grid.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__ic_action_grid.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__list_pressed_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__list_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_off_disabled_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_off_disabled_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__list_activated_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__list_activated_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__ic_action_ok.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__ic_action_ok.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__ic_action_sort.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__ic_action_sort.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_on_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_on_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__text_select_handle_middle.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__text_select_handle_middle.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_on_focused_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_on_focused_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__textfield_disabled_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__textfield_disabled_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__ic_action_ok.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__ic_action_ok.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_on_disabled_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_on_disabled_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__list_pressed_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__list_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__textfield_focused_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__textfield_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__text_select_handle_left.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__text_select_handle_left.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__ic_action_new_folder.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__ic_action_new_folder.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__textfield_disabled_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__textfield_disabled_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_off_pressed_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_off_pressed_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__ic_action_list.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__ic_action_list.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__list_focused_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_off_pressed_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_off_pressed_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__textfield_default_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__textfield_default_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_on_pressed_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_on_pressed_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_off_disabled_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_off_disabled_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__btn_check_off_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__btn_check_off_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__btn_check_on_disabled_focused_holo.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__btn_check_on_disabled_focused_holo.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__textfield_activated_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__textfield_activated_holo.9.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__ic_action_cancel.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__ic_action_cancel.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__ic_action_grid.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__ic_action_grid.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_light__text_select_handle_right.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_light__text_select_handle_right.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__text_select_handle_left.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__text_select_handle_left.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__ic_action_select_all.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__ic_action_select_all.png"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/efp_dark__list_selector_disabled_holo.9.png",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/efp_dark__list_selector_disabled_holo.9.png"
+    }
+]

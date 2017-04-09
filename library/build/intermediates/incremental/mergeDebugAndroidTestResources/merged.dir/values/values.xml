@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="efp__size_units">
+        <item>B</item>
+        <item>kB</item>
+        <item>mB</item>
+        <item>gB</item>
+        <item>tB</item>
+        <item>pB</item>
+    </string-array>
+    <string-array name="efp__sorting_types">
+        <item>By name, ascending</item>
+        <item>By name, descending</item>
+        <item>By size, ascending</item>
+        <item>By size, descending</item>
+        <item>By date, ascending</item>
+        <item>By date, descending</item>
+    </string-array>
+    <color name="efp__header_button_pressed_color">#aa33b5e5</color>
+    <color name="efp__header_divider_color">#45484e</color>
+    <color name="efp__header_line_color">#33b5e5</color>
+    <declare-styleable name="customAttrs"><attr format="reference" name="efp__selected_item_background"/><attr format="reference" name="efp__ic_action_cancel"/><attr format="reference" name="efp__ic_action_deselect"/><attr format="reference" name="efp__ic_action_grid"/><attr format="reference" name="efp__ic_action_invert_selection"/><attr format="reference" name="efp__ic_action_list"/><attr format="reference" name="efp__ic_action_new_folder"/><attr format="reference" name="efp__ic_action_ok"/><attr format="reference" name="efp__ic_action_select_all"/><attr format="reference" name="efp__ic_action_sort"/></declare-styleable>
+    <string name="efp__action_deselect">Deselect</string>
+    <string name="efp__action_grid">Grid</string>
+    <string name="efp__action_invert_selection">Invert selection</string>
+    <string name="efp__action_list">List</string>
+    <string name="efp__action_select_all">Select all</string>
+    <string name="efp__app_name">ExFilePicker</string>
+    <string name="efp__empty_directory">This directory is empty</string>
+    <string name="efp__folder_already_exists">Folder already exists</string>
+    <string name="efp__folder_created">Folder created successfully</string>
+    <string name="efp__folder_name_hint">Folder name</string>
+    <string name="efp__folder_not_created">Error! Folder isn\'t created</string>
+    <string name="efp__new_folder">New folder</string>
+    <string name="efp__sort">Sort</string>
+    <style name="CheckBoxExFilePickerThemeDark" parent="android:Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/efp_dark__btn_check_holo</item>
+    </style>
+    <style name="CheckBoxExFilePickerThemeLight" parent="android:Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/efp_light__btn_check_holo</item>
+    </style>
+    <style name="EditTextExFilePickerThemeDark" parent="android:Widget.EditText">
+        <item name="android:background">@drawable/efp_dark__edit_text_holo</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="EditTextExFilePickerThemeLight" parent="android:Widget.EditText">
+        <item name="android:background">@drawable/efp_light__edit_text_holo</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="ExFilePickerThemeDark" parent="@style/_ExFilePickerThemeDark"/>
+    <style name="ExFilePickerThemeLight" parent="@style/_ExFilePickerThemeLight"/>
+    <style name="ListViewExFilePickerThemeDark" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/efp_dark__list_selector_holo</item>
+    </style>
+    <style name="ListViewExFilePickerThemeDark.White" parent="android:Widget.ListView.White">
+        <item name="android:listSelector">@drawable/efp_dark__list_selector_holo</item>
+    </style>
+    <style name="ListViewExFilePickerThemeLight" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/efp_light__list_selector_holo</item>
+    </style>
+    <style name="ListViewExFilePickerThemeLight.White" parent="android:Widget.ListView.White">
+        <item name="android:listSelector">@drawable/efp_light__list_selector_holo</item>
+    </style>
+    <style name="SpinnerItemExFilePickerThemeDark" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="SpinnerItemExFilePickerThemeLight" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="_ExFilePickerThemeDark" parent="android:Theme.Black">
+        <item name="android:editTextStyle">@style/EditTextExFilePickerThemeDark</item>
+        <item name="android:textColorHighlight">#9933b5e5</item>
+        <item name="android:checkboxStyle">@style/CheckBoxExFilePickerThemeDark</item>
+        <item name="android:listViewStyle">@style/ListViewExFilePickerThemeDark</item>
+        <item name="android:listViewWhiteStyle">@style/ListViewExFilePickerThemeDark.White</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItemExFilePickerThemeDark</item>
+        <item name="efp__selected_item_background">@drawable/efp_dark__list_activated_holo</item>
+        <item name="efp__ic_action_cancel">@drawable/efp_dark__ic_action_cancel</item>
+        <item name="efp__ic_action_deselect">@drawable/efp_dark__ic_action_deselect</item>
+        <item name="efp__ic_action_grid">@drawable/efp_dark__ic_action_grid</item>
+        <item name="efp__ic_action_invert_selection">@drawable/efp_dark__ic_action_invert_selection</item>
+        <item name="efp__ic_action_list">@drawable/efp_dark__ic_action_list</item>
+        <item name="efp__ic_action_new_folder">@drawable/efp_dark__ic_action_new_folder</item>
+        <item name="efp__ic_action_ok">@drawable/efp_dark__ic_action_ok</item>
+        <item name="efp__ic_action_select_all">@drawable/efp_dark__ic_action_select_all</item>
+        <item name="efp__ic_action_sort">@drawable/efp_dark__ic_action_sort</item>
+    </style>
+    <style name="_ExFilePickerThemeLight" parent="android:Theme.Light">
+        <item name="android:editTextStyle">@style/EditTextExFilePickerThemeLight</item>
+        <item name="android:textColorHighlight">#9933b5e5</item>
+        <item name="android:checkboxStyle">@style/CheckBoxExFilePickerThemeLight</item>
+        <item name="android:listViewStyle">@style/ListViewExFilePickerThemeLight</item>
+        <item name="android:listViewWhiteStyle">@style/ListViewExFilePickerThemeLight.White</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItemExFilePickerThemeLight</item>
+        <item name="efp__selected_item_background">@drawable/efp_light__list_activated_holo</item>
+        <item name="efp__ic_action_cancel">@drawable/efp_light__ic_action_cancel</item>
+        <item name="efp__ic_action_deselect">@drawable/efp_light__ic_action_deselect</item>
+        <item name="efp__ic_action_grid">@drawable/efp_light__ic_action_grid</item>
+        <item name="efp__ic_action_invert_selection">@drawable/efp_light__ic_action_invert_selection</item>
+        <item name="efp__ic_action_list">@drawable/efp_light__ic_action_list</item>
+        <item name="efp__ic_action_new_folder">@drawable/efp_light__ic_action_new_folder</item>
+        <item name="efp__ic_action_ok">@drawable/efp_light__ic_action_ok</item>
+        <item name="efp__ic_action_select_all">@drawable/efp_light__ic_action_select_all</item>
+        <item name="efp__ic_action_sort">@drawable/efp_light__ic_action_sort</item>
+    </style>
+</resources>

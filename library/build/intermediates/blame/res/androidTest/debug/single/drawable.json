@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_dark__list_selector_background_transition_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_dark__list_selector_background_transition_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_dark__list_selector_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_dark__list_selector_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp__header_buttons_selector.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp__header_buttons_selector.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_dark__activated_background_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_dark__activated_background_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_dark__item_background_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_dark__item_background_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_light__list_selector_background_transition_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_light__list_selector_background_transition_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_light__item_background_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_light__item_background_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_light__activated_background_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_light__activated_background_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_dark__btn_check_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_dark__btn_check_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_light__list_selector_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_light__list_selector_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_light__edit_text_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_light__edit_text_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_light__btn_check_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_light__btn_check_holo.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/drawable/efp_dark__edit_text_holo.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/drawable/efp_dark__edit_text_holo.xml"
+    }
+]

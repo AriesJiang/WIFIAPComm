@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/layout/efp__main_activity.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/layout/efp__main_activity.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/layout/efp__new_folder.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/layout/efp__new_folder.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/layout/efp__empty.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/layout/efp__empty.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/layout/efp__list_item.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/layout/efp__list_item.xml"
+    },
+    {
+        "merged": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/res/merged/androidTest/debug/layout/efp__grid_item.xml",
+        "source": "/Users/yidongjiang/Aries/project/aosp/WIFIAPComm/library/build/intermediates/bundles/debug/res/layout/efp__grid_item.xml"
+    }
+]
