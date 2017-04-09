@@ -41,8 +41,8 @@ public class MainActivity extends AppCompatActivity {
         fileTransmission.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                startActivity(new Intent(MainActivity.this, TransmissionActivity.class));
-                startActivity(new Intent(MainActivity.this, TransmissionWIFIListActivity.class));
+//                startActivity(new Intent(MainActivity.this, TransferActivity.class));
+                startActivity(new Intent(MainActivity.this, TransferMainActivity.class));
             }
         });
         BroadcastTest = (Button) findViewById(R.id.BroadcastTest);

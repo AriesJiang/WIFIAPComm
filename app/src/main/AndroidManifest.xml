@@ -21,8 +21,8 @@
         <activity android:name=".ConnectWIFIActivity" />
         <activity android:name=".BroadcastActivity" />
         <activity android:name=".ChatActivity" />
-        <activity android:name=".TransmissionActivity" />
-        <activity android:name=".TransmissionWIFIListActivity" />
+        <activity android:name=".TransferActivity" />
+        <activity android:name=".TransferMainActivity" />
         // 该activity是文件选择器中的页面
         <activity
             android:name="ru.bartwell.exfilepicker.ExFilePickerActivity"

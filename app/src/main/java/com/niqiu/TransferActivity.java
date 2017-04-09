@@ -15,9 +15,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.KeyEvent;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.TextureView;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Button;
@@ -53,10 +50,10 @@ import java.util.Map;
 import ru.bartwell.exfilepicker.ExFilePicker;
 import ru.bartwell.exfilepicker.ExFilePickerParcelObject;
 
-public class TransmissionActivity extends AppCompatActivity implements AdapterView.OnItemClickListener, View.OnClickListener {
+public class TransferActivity extends AppCompatActivity implements AdapterView.OnItemClickListener, View.OnClickListener {
 
     //    Button Test;
-    public final String TAG = "TransmissionActivity";
+    public final String TAG = "TransferActivity";
     private static final int EX_FILE_PICKER_RESULT = 0;
 
     protected TextView curStatue, curHostIp, savePath;
@@ -123,7 +120,7 @@ public class TransmissionActivity extends AppCompatActivity implements AdapterVi
                             "发送者名称:\t" + extraMsg[2] + "\n" +
                             "文件总数:\t" + fileInfos.length + "个";
 
-                    new AlertDialog.Builder(TransmissionActivity.this)
+                    new AlertDialog.Builder(TransferActivity.this)
                             .setIcon(R.mipmap.ic_launcher)
                             .setTitle("收到文件传输请求")
                             .setMessage(infoStr)
@@ -173,9 +170,9 @@ public class TransmissionActivity extends AppCompatActivity implements AdapterVi
                                                 }
                                             }));
 
-                                            Toast.makeText(TransmissionActivity.this, "开始接收文件", Toast.LENGTH_SHORT).show();
+                                            Toast.makeText(TransferActivity.this, "开始接收文件", Toast.LENGTH_SHORT).show();
                                             curtime = System.currentTimeMillis();
-                                            TransmissionActivity.this.showNotification();    //显示notification
+                                            TransferActivity.this.showNotification();    //显示notification
                                         }
                                     })
                             .setNegativeButton("取消",
@@ -340,7 +337,7 @@ public class TransmissionActivity extends AppCompatActivity implements AdapterVi
         mNotification = new Notification(android.R.drawable.stat_sys_download, "接收文件", System.currentTimeMillis());
         mNotification.contentView = new RemoteViews(getPackageName(), R.layout.file_download_notification);
         mNotification.contentView.setProgressBar(R.id.pd_download, 100, 0, false);
-        Intent notificationIntent = new Intent(this, TransmissionActivity.class);
+        Intent notificationIntent = new Intent(this, TransferActivity.class);
         PendingIntent contentIntent = PendingIntent.getActivity(this, 0, notificationIntent, 0);
         mNotification.contentIntent = contentIntent;
 
@@ -348,7 +345,7 @@ public class TransmissionActivity extends AppCompatActivity implements AdapterVi
         netThreadHelper.connectSocket();    //开始监听数据
         netThreadHelper.noticeOnline();    //广播上线
 
-        mBuilder = new AlertDialog.Builder(TransmissionActivity.this)
+        mBuilder = new AlertDialog.Builder(TransferActivity.this)
                 .setIcon(R.mipmap.ic_launcher)
                 .setTitle("退出提示")
                 .setMessage("退出将停止传输！！")

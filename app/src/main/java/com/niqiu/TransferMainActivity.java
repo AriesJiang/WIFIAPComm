@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.net.wifi.ScanResult;
 import android.net.wifi.WifiInfo;
 import android.net.wifi.WifiManager;
-import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -28,12 +27,15 @@ import com.niqiu.util.WifiUtils;
 
 import java.util.List;
 
-public class TransmissionWIFIListActivity extends AppCompatActivity implements WifiHotManager.WifiBroadCastOperator, AdapterView.OnItemClickListener {
+/**
+ * 传输文件主界面
+ */
+public class TransferMainActivity extends AppCompatActivity implements WifiHotManager.WifiBroadCastOperator, AdapterView.OnItemClickListener {
 
     Button startAp, next;
     ListView listView;
     TextView curStatue;
-    public static final String TAG = "TransmissionWIFIListActivity";
+    public static final String TAG = "TransferMainActivity";
 
     private WifiHotManager mWifiHotManager;
     private List<ScanResult> wifiList;
@@ -79,7 +81,7 @@ public class TransmissionWIFIListActivity extends AppCompatActivity implements W
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_wifiscanlist);
         //wifi管理类
-        mWifiHotManager = WifiHotManager.getInstance(this, TransmissionWIFIListActivity.this);
+        mWifiHotManager = WifiHotManager.getInstance(this, TransferMainActivity.this);
         curStatue = (TextView) findViewById(R.id.curStatue);
         listView = (ListView) findViewById(R.id.listView);
         listView.setOnItemClickListener(this);
@@ -103,10 +105,10 @@ public class TransmissionWIFIListActivity extends AppCompatActivity implements W
                         myAdapter.notifyDataSetChanged();
                     }
                     listView.setVisibility(View.GONE);
-                    Toast.makeText(TransmissionWIFIListActivity.this, "热点正在创建",
+                    Toast.makeText(TransferMainActivity.this, "热点正在创建",
                             Toast.LENGTH_SHORT).show();
                 } else {
-                    Toast.makeText(TransmissionWIFIListActivity.this, "热点创建失败！",
+                    Toast.makeText(TransferMainActivity.this, "热点创建失败！",
                             Toast.LENGTH_SHORT).show();
                 }
             }
@@ -122,7 +124,7 @@ public class TransmissionWIFIListActivity extends AppCompatActivity implements W
                 if (mHandler != null){
                     mHandler.removeMessages(0x789);
                 }
-                startActivity(new Intent(TransmissionWIFIListActivity.this, TransmissionActivity.class));
+                startActivity(new Intent(TransferMainActivity.this, TransferActivity.class));
             }
         });
     }

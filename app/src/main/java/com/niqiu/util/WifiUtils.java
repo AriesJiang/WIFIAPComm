@@ -143,6 +143,10 @@ public class WifiUtils {
         }
     }
 
+    /**
+     * 是否开启热点
+     * @return
+     */
     public static boolean isWifiApEnabled() {
         try {
             Method method = mWifiManager.getClass().getMethod("isWifiApEnabled");
