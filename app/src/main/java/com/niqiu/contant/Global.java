@@ -6,10 +6,8 @@ import java.io.File;
 
 /**
  * 
- * @Description: TODO(Constant) 
- * @author Snail  (Zhanghf QQ:651555765)
- * @date 2014-4-25 下午4:56:23 
- * @version V1.0
+ * @Description: 存储全局信息
+ * @author jiangyidong  (QQ:870184773)
  */
 public class Global {
 	

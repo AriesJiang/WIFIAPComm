@@ -45,13 +45,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, TransferMainActivity.class));
             }
         });
-        BroadcastTest = (Button) findViewById(R.id.BroadcastTest);
-        BroadcastTest.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, BroadcastActivity.class));
-            }
-        });
     }
 
     @Override

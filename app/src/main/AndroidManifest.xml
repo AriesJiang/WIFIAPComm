@@ -19,7 +19,6 @@
         </activity>
         <activity android:name=".ConnectActivity" />
         <activity android:name=".ConnectWIFIActivity" />
-        <activity android:name=".BroadcastActivity" />
         <activity android:name=".ChatActivity" />
         <activity android:name=".TransferActivity" />
         <activity android:name=".TransferMainActivity" />
@@ -29,16 +28,6 @@
             android:configChanges="orientation|screenSize"
             android:theme="@style/ExFilePickerThemeDark" />
 
-        <receiver android:name="com.niqiu.Broadcast.Receiver1">
-            <intent-filter>
-                <action android:name="com.forrest.action.SENDMESSAGE"/>
-            </intent-filter>
-        </receiver>
-        <!--<receiver android:name="com.niqiu.Broadcast.Receiver2">-->
-            <!--<intent-filter>-->
-                <!--<action android:name="com.forrest.action.CLEARNOTIFICATION"/>-->
-            <!--</intent-filter>-->
-        <!--</receiver>-->
     </application>
     <!-- 以下是使用wifi访问网络所需的权限 -->
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"></uses-permission>
