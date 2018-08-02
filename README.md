@@ -18,3 +18,12 @@ android使用socket实现文件传输
 
 ## 使用开源项目
 文件浏览：https://github.com/bartwell/ExFilePicker
+
+## 我的博客
+My bolg:  https://blog.csdn.net/u011484134
+
+## 打赏/Donation
+如果这个项目帮助你减少开发时间，你可以给我一杯饮料~
+<br/>
+![支付宝付款码](https://github.com/AriesJiang/androidPixelate/blob/master/stuff/alipay_code.jpg)
+<br/>
