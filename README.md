@@ -25,5 +25,5 @@ My bolg:  https://blog.csdn.net/u011484134
 ## 打赏/Donation
 如果这个项目帮助你减少开发时间，你可以给我一杯饮料~
 <br/>
-![支付宝付款码](https://github.com/AriesJiang/androidPixelate/blob/master/stuff/alipay_code.jpg)
+![支付宝付款码](https://github.com/AriesJiang/WIFIAPComm/blob/master/stuff/alipay_code.jpg)
 <br/>
